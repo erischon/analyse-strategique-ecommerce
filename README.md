@@ -1,4 +1,4 @@
-📊 ## Analyse des performances d’un e-commerce de fournitures pour animaux
+## 📊 Analyse des performances d’un e-commerce de fournitures pour animaux
 
 Ce projet propose une analyse des ventes d’un e-commerce spécialisé dans les fournitures pour animaux à partir de fichiers CSV. L’objectif est de fournir un tableau de bord interactif permettant au dirigeant de suivre ses performances commerciales et d’identifier des opportunités d’optimisation.
 
