@@ -44,9 +44,10 @@ Le rapport Power BI fournit les indicateurs suivants :
 
 ### 🛠️ Comment utiliser ce projet ?
 
-- Téléchargez les fichiers CSV depuis ce repository.
-- Importez-les dans Power BI (ou un autre outil de BI comme Excel).
-- Chargez le rapport Power BI fourni pour explorer les données.
+- Télécharger les éléments : <> Code > Local > Download ZIP
+- Extraire le .zip
+- Ouvrir le tableau de bord avec Power BI
+- Dans Power Query modifier le paramètre DatasetPath en mettant votre chemin d'accès
 
 ### 📌 Exemple d’utilisation
 
